@@ -4,6 +4,14 @@
 Python developer with experience in data analysis and automation. Passionate about solving real-world problems through code.
 Also have experience in mern dvelopment and full stack executions.
 
+🔭 I’m currently working on ecommerce website.
+👯 I’m looking to collaborate on Front-End and Back-End Projects.
+🌱 I’m currently learning AI.
+📧 How to reach me: *workwithaditya149@gmail.com*
+💬 Ask me about technologies and web development.
+⚡ Fun fact :🌐 Full-Stack Adventurer: Jumping between frontend animations and backend APIs like it’s a parkour course.
+😃 pronounce : He/Him
+
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -27,6 +35,12 @@ Also have experience in mern dvelopment and full stack executions.
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-00A67E?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG_(Retrieval_Augmented_Generation)-000000?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=langchain&logoColor=white)
 
 ## 🌱 Currently Learning
 - Machine Learning with scikit-learn
